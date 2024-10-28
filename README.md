@@ -8,7 +8,7 @@
 
 Welcome to my GitHub repository, showcasing data science projects. These projects highlight my expertise in **data analysis**, **machine learning**, and **Python programming**, demonstrating my ability to turn complex datasets into valuable business insights.
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Data+Science+Projects+Showcase) <!-- Replace with a relevant image -->
+![Header Image](https://images.app.goo.gl/vwx5DNn9okRHdgNj9)
 
 ---
 
