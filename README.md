@@ -1,4 +1,4 @@
-# 🎓 **Data Science Project**
+# 🎓 **Data Science Projects**
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Python-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
@@ -23,7 +23,7 @@ In this project, I conducted exploratory data analysis (EDA) on a retail dataset
 - **Exploratory Analysis**: Identified sales trends, seasonal patterns, and anomalies.
 - **Visualization**: Created visualizations to clearly communicate data insights.
 
-🔗 [Explore the Data Exploration Notebook](./data-exploration/data-exploration.ipynb)
+🔗 [Explore the Data Exploration Notebook](./data-exploration.ipynb)
 
 ---
 
@@ -36,7 +36,7 @@ This project involved building and evaluating predictive models to forecast prod
 - **Modeling**: Implemented various machine learning models, including Gradient Boosting and Linear Regression.
 - **Evaluation**: Assessed model performance using metrics like Mean Squared Error (MSE) and refined models for better accuracy.
 
-🔗 [Explore the Predictive Models Notebook](./predictive-models/predictive-models.ipynb)
+🔗 [Explore the Predictive Models Notebook](./predictive-models.ipynb)
 
 ---
 
@@ -49,7 +49,7 @@ In this project, I applied social network analysis techniques to understand rela
 - **Network Analysis**: Used tools like Gephi to visualize and analyze the network, identifying clusters and key relationships.
 - **Business Insights**: Derived actionable insights on product interactions and promotional strategies.
 
-🔗 [Explore the Social Network Analysis Notebook](./social-network-analysis/social-network-analysis.ipynb)
+🔗 [Explore the Social Network Analysis Notebook](./social-network-analysis.ipynb)
 
 ---
 
