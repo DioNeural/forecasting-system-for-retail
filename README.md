@@ -8,7 +8,7 @@
 
 Welcome to my GitHub repository, showcasing data science projects. These projects highlight my expertise in **data analysis**, **machine learning**, and **Python programming**, demonstrating my ability to turn complex datasets into valuable business insights.
 
-![Header Image](https://images.app.goo.gl/vwx5DNn9okRHdgNj9)
+![Header Image](https://github.com/DioNeural/forecasting-system-for-retail/blob/main/image.jpg?raw=true)
 
 ---
 
