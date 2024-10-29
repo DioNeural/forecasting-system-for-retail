@@ -2,6 +2,10 @@
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Python-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-yellowgreen)
+![NumPy](https://img.shields.io/badge/Numerical%20Computing-NumPy-lightgrey)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-blueviolet)
+![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-9cf)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📝 **Overview**
